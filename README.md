@@ -28,7 +28,6 @@ Open to collaboration and new opportunities that help me grow professionally.
 ### 🛠️ Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
 </p>
